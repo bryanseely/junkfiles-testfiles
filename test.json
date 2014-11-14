@@ -1,0 +1,601 @@
+{
+  "name": "SRP",
+  "color": "rgb(222, 222, 222)",
+  "children": [
+    {
+      "name": "Bus Dev",
+      "color": "#FF9C5A",
+      "url": "javascript:;",
+      "children": [
+        {
+          "name": "Generate Demand",
+          "color": "#FFB27F",
+          "children": [
+            {
+              "name": "Execute Campaign",
+              "color": "#FFBB99",
+              "children": [
+                {
+                  "name": "Cold Call ",
+                  "color": "#FFC9A6",
+                  "size": 1000
+                },
+                {
+                  "name": "Cold Call ",
+                  "color": "#FFC9A6",
+                  "size": 1000
+                }
+              ]
+            },
+            {
+              "name": "Manage Relationships",
+              "size": 1000,
+              "color": "#FFBB99"
+            },
+            {
+              "name": "Manage Activity",
+              "color": "#FFBB99",
+              "size": 1000,
+              "url": "https://www.google.com"
+            },
+            {
+              "name": "Lead Grooming",
+              "color": "#FFBB99",
+              "size": 1000
+            }
+          ]
+        },
+        {
+          "name": "Manage Opportunity",
+          "color": "#FFB27F",
+          "children": [
+            {
+              "name": "Close Opportunity",
+              "size": 1000,
+              "color": "#FFDBD6"
+            },
+            {
+              "name": "Create Opportunity",
+              "size": 1000,
+              "color": "#FFDBD6"
+            },
+            {
+              "name": "Manage Opportunity",
+              "size": 1000,
+              "color": "#FFDBD6"
+            },
+            {
+              "name": "Solution Architecture and Pricing",
+              "size": 1000,
+              "color": "#FFDBD6"
+            }
+          ]
+        },
+        {
+          "name": "Sales Management",
+          "color": "#FFB27F",
+          "children": [
+            {
+              "name": "Define Sales Strategy",
+              "size": 1000,
+              "color": "#FFDBD6"
+            },
+            {
+              "name": "Demand Forecasting",
+              "size": 1000,
+              "color": "#FFDBD6"
+            },
+            {
+              "name": "Sales Management",
+              "size": 1000,
+              "color": "#FFDBD6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Knowledge Management",
+      "color": "#59FFD3",
+      "url": "javascript:;",
+      "children": [
+        {
+          "name": "Project Summaries",
+          "color": "#59ffd3",
+          "size": "1000"
+        }
+      ]
+    },
+    {
+      "name": "Client Ops",
+      "color": "#5AE874",
+      "children": [
+        {
+          "name": "Account Management",
+          "color": "#79F28F",
+          "children": [
+            {
+              "name": "Create Account Plan",
+              "color": "#99FFAB",
+              "size": 1000
+            },
+            {
+              "name": "Manage Account",
+              "color": "#99FFAB",
+              "children": [
+                {
+                  "name": "Monthly",
+                  "size": 1000,
+                  "color": "#BAFFC6"
+                },
+                {
+                  "name": "Weekly",
+                  "size": 1000,
+                  "color": "#BAFFC6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Engagement Management",
+          "color": "#79F28F",
+          "children": [
+            {
+              "name": "Create/Ammend SOW",
+              "size": 1000,
+              "color": "#99FFAB"
+            },
+            {
+              "name": "Budget Tracking",
+              "size": 1000,
+              "color": "#99FFAB"
+            },
+            {
+              "name": "Close Engagement",
+              "size": 1000,
+              "color": "#99FFAB"
+            },
+            {
+              "name": "Create Engagement",
+              "size": 1000,
+              "color": "#99FFAB"
+            },
+            {
+              "name": "Quality Review",
+              "size": 1000,
+              "color": "#99FFAB"
+            },
+            {
+              "name": "Update Engagement",
+              "size": 1000,
+              "color": "#99FFAB"
+            },
+            {
+              "name": "Update Project Summaries",
+              "size": 1000,
+              "color": "#99FFAB"
+            },
+            {
+              "name": "Year End Bonus",
+              "size": 1000,
+              "color": "#99FFAB"
+            }
+          ]
+        },
+        {
+          "name": "Portfolio Management",
+          "color": "#79F28F",
+          "children": [
+            {
+              "name": "Manage Portfolio",
+              "size": 1000,
+              "color": "#99FFAB"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Compensation",
+      "color": "#FFCC4C",
+      "children": [
+        {
+          "name": "Benefits",
+          "color": "#FFD059",
+          "children": [
+            {
+              "name": "Claims",
+              "color": "#FFE882",
+              "children": [
+                {
+                  "name": "Disability",
+                  "size": 1000,
+                  "color": "#FFEC99"
+                },
+                {
+                  "name": "Life",
+                  "size": 1000,
+                  "color": "#FFEC99"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Direct Compensation",
+          "color": "#FFD261",
+          "children": [
+            {
+              "name": "Associate Compensation",
+              "color": "#FFE77D",
+              "children": [
+                {
+                  "name": "Expense Reimbursement",
+                  "size": 1000,
+                  "color": "#FFED99"
+                },
+                {
+                  "name": "Other Bonus",
+                  "size": 1000,
+                  "color": "#FFED99"
+                },
+                {
+                  "name": "Payroll",
+                  "size": 1000,
+                  "color": "#FFED99"
+                },
+                {
+                  "name": "Year End Bonus",
+                  "size": 1000,
+                  "color": "#FFED99"
+                }
+              ]
+            },
+            {
+              "name": "Manual Payroll Run",
+              "size": 1000,
+              "color": "#FFE678"
+            }
+          ]
+        },
+        {
+          "name": "Retirement",
+          "color": "#FFD469",
+          "children": [
+            {
+              "name": "ESOP",
+              "color": "#FFE573",
+              "children": [
+                {
+                  "name": "Eligibility (Join)",
+                  "size": 1000,
+                  "color": "#FFEC99"
+                },
+                {
+                  "name": "Allocation, Segregation, Distribution",
+                  "size": 1000,
+                  "color": "#FFEC99"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Finance",
+      "color": "#59E6FF",
+      "children": [
+        {
+          "name": "Budgeting",
+          "color": "#99F0FF",
+          "size": 1000
+        },
+        {
+          "name": "Associate Expense Entry",
+          "color": "#96EFFF",
+          "size": 1000
+        },
+        {
+          "name": "Billable Time Entry",
+          "color": "#94EFFF",
+          "size": 1000
+        },
+        {
+          "name": "Accounting",
+          "color": "#8CEEFF",
+          "children": [
+            {
+              "name": "Expenses",
+              "color": "#A6F2FF",
+              "children": [
+                {
+                  "name": "Bad Debt Allowance",
+                  "color": "#BFF5FF",
+                  "size": 1000
+                },
+                {
+                  "name": "Corp Card Account Reconciliation",
+                  "color": "#BFF5FF",
+                  "size": 1000
+                },
+                {
+                  "name": "Corp Credit Cards",
+                  "color": "#BFF5FF",
+                  "size": 1000
+                },
+                {
+                  "name": "New Vendor Setup",
+                  "color": "#BFF5FF",
+                  "size": 1000
+                },
+                {
+                  "name": "Other Accurals",
+                  "color": "#BFF5FF",
+                  "size": 1000
+                },
+                {
+                  "name": "Pre-Paids",
+                  "color": "#BFF5FF",
+                  "size": 1000
+                },
+                {
+                  "name": "Sub-contractor Accurals",
+                  "color": "#BFF5FF",
+                  "size": 1000
+                },
+                {
+                  "name": "Update Vendor Setup",
+                  "color": "#BFF5FF",
+                  "size": 1000
+                },
+                {
+                  "name": "AP",
+                  "color": "#BFF5FF",
+                  "children": [
+                    {
+                      "name": "Online Payments",
+                      "size": 1000,
+                      "color": "#D9F9FF"
+                    },
+                    {
+                      "name": "Reoccurring Payments",
+                      "size": 1000,
+                      "color": "#D9F9FF"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Fixed Assets",
+              "color": "#A8F2FF",
+              "children": [
+                {
+                  "name": "Depreciation/Amortization",
+                  "size": 1000,
+                  "color": "#BFF5FF"
+                }
+              ]
+            },
+            {
+              "name": "Revenue",
+              "color": "#ABF2FF",
+              "children": [
+                {
+                  "name": "Cash Collection",
+                  "size": 1000,
+                  "color": "#BFF5FF"
+                },
+                {
+                  "name": "Create Invoice",
+                  "size": 1000,
+                  "color": "#BFF5FF"
+                },
+                {
+                  "name": "Manage AR",
+                  "size": 1000,
+                  "color": "#BFF5FF"
+                },
+                {
+                  "name": "Update Invoice Post-Close",
+                  "size": 1000,
+                  "color": "#BFF5FF"
+                },
+                {
+                  "name": "Update Invoice Post-Payroll",
+                  "size": 1000,
+                  "color": "#BFF5FF"
+                },
+                {
+                  "name": "Revenue Recognition",
+                  "color": "#BFF5FF",
+                  "children": [
+                    {
+                      "name": "Invoices",
+                      "color": "#D9F9FF",
+                      "size": 1000
+                    },
+                    {
+                      "name": "Other",
+                      "color": "#D9F9FF",
+                      "size": 1000
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Subsidiary Accounting",
+              "size": 1000,
+              "color": "#ADF3FF"
+            },
+            {
+              "name": "Treasury Management",
+              "color": "#B0F3FF",
+              "children": [
+                {
+                  "name": "Bank Reconciliation",
+                  "size": 1000,
+                  "color": "#BFF5FF"
+                },
+                {
+                  "name": "Import Bank File",
+                  "size": 1000,
+                  "color": "#BFF5FF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Compliance",
+          "color": "#8FEEFF",
+          "children": [
+            {
+              "name": "State and Local Taxes",
+              "color": "#B2F4FF",
+              "children": [
+                {
+                  "name": "Annual",
+                  "size": 1000,
+                  "color": "#BFF5FF"
+                },
+                {
+                  "name": " Monthly",
+                  "size": 1000,
+                  "color": "#BFF5FF"
+                },
+                {
+                  "name": " Quarterly",
+                  "size": 1000,
+                  "color": "#BFF5FF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Reporting",
+          "color": "#91EFFF",
+          "children": [
+            {
+              "name": "Financial Statements",
+              "size": 1000,
+              "color": "#B5F4FF"
+            },
+            {
+              "name": "Management Reporting",
+              "size": 1000,
+              "color": "#B8F4FF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marketing",
+      "color": "#9045E8",
+      "children": [
+        {
+          "name": "Generate Demand",
+          "color": "#A974E8",
+          "children": [
+            {
+              "name": "Create Campaign",
+              "color": "#C68BE8",
+              "size": 1000
+            },
+            {
+              "name": "Capture & Segment Leads",
+              "color": "#C68BE8",
+              "size": 1000
+            },
+            {
+              "name": "Execute Campaign",
+              "color": "#C68BE8",
+              "children": [
+                {
+                  "name": "Marketing Email/Newsletter",
+                  "color": "#D3AEE8",
+                  "size": 1000
+                },
+                {
+                  "name": "Event",
+                  "color": "#D3AEE8",
+                  "size": 1000
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Monitor Satisfaction",
+          "color": "#A974E8",
+          "children": [
+            {
+              "name": "Send Satisfaction Survey",
+              "color": "#C68BE8",
+              "size": 1000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Resource Management",
+      "color": "#FF7C60",
+      "children": [
+        {
+          "name": "Capacity Planning",
+          "color": "#FF927A",
+          "children": [
+            {
+              "name": "Create Plan",
+              "size": 1000,
+              "color": "#FF9B94"
+            },
+            {
+              "name": "Manage Plan",
+              "size": 1000,
+              "color": "#FFA59E"
+            }
+          ]
+        },
+        {
+          "name": "Manage Employee Inventory",
+          "color": "#FF927A",
+          "children": [
+            {
+              "name": "New Hire Setup",
+              "size": 1000,
+              "color": "#FFA59E"
+            },
+            {
+              "name": "Post-hire Updates",
+              "size": 1000,
+              "color": "#FF9B94"
+            },
+            {
+              "name": "Termination",
+              "size": 1000,
+              "color": "#FFA099"
+            }
+          ]
+        },
+        {
+          "name": "Opportunity Resourcing",
+          "color": "#FF927A",
+          "children": [
+            {
+              "name": "Staffing",
+              "size": 1000,
+              "color": "#FFACA6"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
