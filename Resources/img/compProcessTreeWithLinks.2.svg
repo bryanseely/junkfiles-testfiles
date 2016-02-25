@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="870.33447"
+   height="345.31421"
+   version="1.1"
+   id="svg4083"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="compProcessTreeWithLinks (2).svg">
+  <metadata
+     id="metadata4209">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4207" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     id="namedview4205"
+     showgrid="false"
+     showborder="false"
+     inkscape:zoom="1"
+     inkscape:cx="386.70252"
+     inkscape:cy="48.471638"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4083"
+     fit-margin-top="3"
+     fit-margin-left="3"
+     fit-margin-right="3"
+     fit-margin-bottom="3" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path4087"
+     style="fill:none;stroke:#cccccc;stroke-width:1px;stroke-opacity:1"
+     d="m 114.14013,172.94203 c 90,0 90,-145.454547 180,-145.454547"
+     class="link" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path4089"
+     style="fill:none;stroke:#cccccc;stroke-width:1px;stroke-opacity:1"
+     d="m 114.14013,172.94203 c 90,0 90,0 180,0"
+     class="link" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path4091"
+     style="fill:none;stroke:#cccccc;stroke-width:1px;stroke-opacity:1"
+     d="m 114.14013,172.94203 c 90,0 90,145.45455 180,145.45455"
+     class="link" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path4093"
+     style="fill:none;stroke:#cccccc;stroke-width:1px;stroke-opacity:1"
+     d="m 294.14013,27.487483 c 90,0 90,0 180,0"
+     class="link" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path4095"
+     style="fill:none;stroke:#256193;stroke-width:1px;stroke-opacity:1"
+     d="m 474.14013,27.487483 c 90,0 90,-18.181819 180,-18.181819"
+     class="link" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path4097"
+     style="fill:none;stroke:#256193;stroke-width:1px;stroke-opacity:1"
+     d="m 474.14013,27.487483 c 90,0 90,18.181818 180,18.181818"
+     class="link" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path4099"
+     style="fill:none;stroke:#cccccc;stroke-width:1px;stroke-opacity:1"
+     d="m 294.14013,172.94203 c 90,0 90,0 180,0"
+     class="link" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path4101"
+     style="fill:none;stroke:#298aa3;stroke-width:1px;stroke-opacity:1"
+     d="m 474.14013,172.94203 c 90,0 90,-54.54545 180,-54.54545"
+     class="link" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path4103"
+     style="fill:none;stroke:#298aa3;stroke-width:1px;stroke-opacity:1"
+     d="m 474.14013,172.94203 c 90,0 90,-18.18182 180,-18.18182"
+     class="link" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path4105"
+     style="fill:none;stroke:#298aa3;stroke-width:1px;stroke-opacity:1"
+     d="m 474.14013,172.94203 c 90,0 90,18.18182 180,18.18182"
+     class="link" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path4107"
+     style="fill:none;stroke:#298aa3;stroke-width:1px;stroke-opacity:1"
+     d="m 474.14013,172.94203 c 90,0 90,54.54545 180,54.54545"
+     class="link" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path4109"
+     style="fill:none;stroke:#cccccc;stroke-width:1px;stroke-opacity:1"
+     d="m 294.14013,318.39658 c 90,0 90,0 180,0"
+     class="link" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path4111"
+     style="fill:none;stroke:#5f67ad;stroke-width:1px;stroke-opacity:1"
+     d="m 474.14013,318.39658 c 90,0 90,-18.18182 180,-18.18182"
+     class="link" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path4113"
+     style="fill:none;stroke:#5f67ad;stroke-width:1px;stroke-opacity:1"
+     d="m 474.14013,318.39658 c 90,0 90,18.18181 180,18.18181"
+     class="link" />
+  <circle
+     r="4.5"
+     style="fill:#eeeeee;stroke:#034e7b;stroke-width:1px;stroke-opacity:1"
+     id="circle4117"
+     d="M 4.5,0 C 4.5,2.4852814 2.4852814,4.5 0,4.5 -2.4852814,4.5 -4.5,2.4852814 -4.5,0 c 0,-2.4852814 2.0147186,-4.5 4.5,-4.5 2.4852814,0 4.5,2.0147186 4.5,4.5 z"
+     cx="0"
+     cy="0"
+     sodipodi:cx="0"
+     sodipodi:cy="0"
+     sodipodi:rx="4.5"
+     sodipodi:ry="4.5"
+     transform="translate(114.14013,172.94203)" />
+  <text
+     dx="-8"
+     dy="3"
+     style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:end;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
+     id="text4119"
+     x="114.14013"
+     y="172.94203" />
+  <circle
+     r="4.5"
+     style="fill:#eeeeee;stroke:#256193;stroke-width:1px;stroke-opacity:1"
+     id="circle4123"
+     d="M 4.5,0 C 4.5,2.4852814 2.4852814,4.5 0,4.5 -2.4852814,4.5 -4.5,2.4852814 -4.5,0 c 0,-2.4852814 2.0147186,-4.5 4.5,-4.5 2.4852814,0 4.5,2.0147186 4.5,4.5 z"
+     cx="0"
+     cy="0"
+     sodipodi:cx="0"
+     sodipodi:cy="0"
+     sodipodi:rx="4.5"
+     sodipodi:ry="4.5"
+     transform="translate(294.14013,27.487483)" />
+  <text
+     dx="-8"
+     dy="3"
+     style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:end;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
+     id="text4125"
+     x="294.14017"
+     y="19.33514">Benefits</text>
+  <circle
+     r="4.5"
+     style="fill:#eeeeee;stroke:#256193;stroke-width:1px;stroke-opacity:1"
+     id="circle4129"
+     d="M 4.5,0 C 4.5,2.4852814 2.4852814,4.5 0,4.5 -2.4852814,4.5 -4.5,2.4852814 -4.5,0 c 0,-2.4852814 2.0147186,-4.5 4.5,-4.5 2.4852814,0 4.5,2.0147186 4.5,4.5 z"
+     cx="0"
+     cy="0"
+     sodipodi:cx="0"
+     sodipodi:cy="0"
+     sodipodi:rx="4.5"
+     sodipodi:ry="4.5"
+     transform="translate(474.14013,27.487483)" />
+  <text
+     dx="-8"
+     dy="3"
+     style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:end;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
+     id="text4131"
+     x="474.14017"
+     y="19.328793">Claims</text>
+  <circle
+     r="4.5"
+     style="fill:#256193;fill-opacity:1;stroke:#256193;stroke-width:1px;stroke-opacity:1"
+     id="circle4135"
+     d="M 4.5,0 C 4.5,2.4852814 2.4852814,4.5 0,4.5 -2.4852814,4.5 -4.5,2.4852814 -4.5,0 c 0,-2.4852814 2.0147186,-4.5 4.5,-4.5 2.4852814,0 4.5,2.0147186 4.5,4.5 z"
+     cx="0"
+     cy="0"
+     sodipodi:cx="0"
+     sodipodi:cy="0"
+     sodipodi:rx="4.5"
+     sodipodi:ry="4.5"
+     transform="translate(654.14013,9.305664)" />
+  <a
+     id="a5091"
+     xlink:href="https://portal.pointb.com/SOA/Infrastructure/Ops/projects/SRPPlan/Shared%20Documents/Requirements/Compensation/Process%20Flows/Disability.vsdx"
+     transform="translate(74.140138,-27.057972)">
+    <text
+       y="36.363636"
+       x="580"
+       id="text4137"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:start;fill:#256193;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+       dy="3"
+       dx="8">Disability</text>
+  </a>
+  <circle
+     r="4.5"
+     style="fill:#256193;fill-opacity:1;stroke:#256193;stroke-width:1px;stroke-opacity:1"
+     id="circle4141"
+     d="M 4.5,0 C 4.5,2.4852814 2.4852814,4.5 0,4.5 -2.4852814,4.5 -4.5,2.4852814 -4.5,0 c 0,-2.4852814 2.0147186,-4.5 4.5,-4.5 2.4852814,0 4.5,2.0147186 4.5,4.5 z"
+     cx="0"
+     cy="0"
+     sodipodi:cx="0"
+     sodipodi:cy="0"
+     sodipodi:rx="4.5"
+     sodipodi:ry="4.5"
+     transform="translate(654.14013,45.669301)" />
+  <a
+     id="a5096">
+    <text
+       y="45.6693"
+       x="654.14014"
+       id="text4143"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:start;fill:#256193;fill-opacity:1;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
+       dy="3"
+       dx="8">Life</text>
+  </a>
+  <circle
+     r="4.5"
+     style="fill:#eeeeee;stroke:#298aa3;stroke-width:1px;stroke-opacity:1"
+     id="circle4147"
+     d="M 4.5,0 C 4.5,2.4852814 2.4852814,4.5 0,4.5 -2.4852814,4.5 -4.5,2.4852814 -4.5,0 c 0,-2.4852814 2.0147186,-4.5 4.5,-4.5 2.4852814,0 4.5,2.0147186 4.5,4.5 z"
+     cx="0"
+     cy="0"
+     sodipodi:cx="0"
+     sodipodi:cy="0"
+     sodipodi:rx="4.5"
+     sodipodi:ry="4.5"
+     transform="translate(294.14013,172.94203)" />
+  <text
+     dx="-8"
+     dy="3"
+     style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:end;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
+     id="text4149"
+     x="294.14017"
+     y="162.35854">Direct Compensation</text>
+  <circle
+     r="4.5"
+     style="fill:#eeeeee;stroke:#298aa3;stroke-width:1px;stroke-opacity:1"
+     id="circle4153"
+     d="M 4.5,0 C 4.5,2.4852814 2.4852814,4.5 0,4.5 -2.4852814,4.5 -4.5,2.4852814 -4.5,0 c 0,-2.4852814 2.0147186,-4.5 4.5,-4.5 2.4852814,0 4.5,2.0147186 4.5,4.5 z"
+     cx="0"
+     cy="0"
+     sodipodi:cx="0"
+     sodipodi:cy="0"
+     sodipodi:rx="4.5"
+     sodipodi:ry="4.5"
+     transform="translate(474.14013,172.94203)" />
+  <text
+     dx="-8"
+     dy="3"
+     style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:end;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
+     id="text4155"
+     x="474.14017"
+     y="162.35854">Associate Compensation</text>
+  <circle
+     r="4.5"
+     style="fill:#298aa3;fill-opacity:1;stroke:#298aa3;stroke-width:1px;stroke-opacity:1"
+     id="circle4159"
+     d="M 4.5,0 C 4.5,2.4852814 2.4852814,4.5 0,4.5 -2.4852814,4.5 -4.5,2.4852814 -4.5,0 c 0,-2.4852814 2.0147186,-4.5 4.5,-4.5 2.4852814,0 4.5,2.0147186 4.5,4.5 z"
+     cx="0"
+     cy="0"
+     sodipodi:cx="0"
+     sodipodi:cy="0"
+     sodipodi:rx="4.5"
+     sodipodi:ry="4.5"
+     transform="translate(654.14013,118.39658)" />
+  <a
+     id="a5099"
+     xlink:href="https://portal.pointb.com/SOA/Infrastructure/Ops/projects/SRPPlan/Shared%20Documents/Requirements/Compensation/Process%20Flows/Expenses.vsdx">
+    <text
+       y="118.39658"
+       x="654.14014"
+       id="text4161"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:start;fill:#298aa3;fill-opacity:1;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
+       dy="3"
+       dx="8">Expense Reimbursement</text>
+  </a>
+  <circle
+     r="4.5"
+     style="fill:#298aa3;fill-opacity:1;stroke:#298aa3;stroke-width:1px;stroke-opacity:1"
+     id="circle4165"
+     d="M 4.5,0 C 4.5,2.4852814 2.4852814,4.5 0,4.5 -2.4852814,4.5 -4.5,2.4852814 -4.5,0 c 0,-2.4852814 2.0147186,-4.5 4.5,-4.5 2.4852814,0 4.5,2.0147186 4.5,4.5 z"
+     cx="0"
+     cy="0"
+     sodipodi:cx="0"
+     sodipodi:cy="0"
+     sodipodi:rx="4.5"
+     sodipodi:ry="4.5"
+     transform="translate(654.14013,154.76021)" />
+  <a
+     id="a5102"
+     xlink:href="https://portal.pointb.com/SOA/Infrastructure/Ops/projects/SRPPlan/Shared%20Documents/Requirements/Compensation/Process%20Flows/Bonus.vsdx">
+    <text
+       y="154.76021"
+       x="654.14014"
+       id="text4167"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:start;fill:#298aa3;fill-opacity:1;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
+       dy="3"
+       dx="8">Other Bonus</text>
+  </a>
+  <circle
+     r="4.5"
+     style="fill:#298aa3;fill-opacity:1;stroke:#298aa3;stroke-width:1px;stroke-opacity:1"
+     id="circle4171"
+     d="M 4.5,0 C 4.5,2.4852814 2.4852814,4.5 0,4.5 -2.4852814,4.5 -4.5,2.4852814 -4.5,0 c 0,-2.4852814 2.0147186,-4.5 4.5,-4.5 2.4852814,0 4.5,2.0147186 4.5,4.5 z"
+     cx="0"
+     cy="0"
+     sodipodi:cx="0"
+     sodipodi:cy="0"
+     sodipodi:rx="4.5"
+     sodipodi:ry="4.5"
+     transform="translate(654.14013,191.12385)" />
+  <a
+     id="a5105"
+     xlink:href="https://portal.pointb.com/SOA/Infrastructure/Ops/projects/SRPPlan/Shared%20Documents/Requirements/Compensation/Process%20Flows/Payroll.vsdx">
+    <text
+       y="191.12386"
+       x="654.14014"
+       id="text4173"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:start;fill:#298aa3;fill-opacity:1;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
+       dy="3"
+       dx="8">Payroll</text>
+  </a>
+  <circle
+     r="4.5"
+     style="fill:#298aa3;fill-opacity:1;stroke:#298aa3;stroke-width:1px;stroke-opacity:1"
+     id="circle4177"
+     d="M 4.5,0 C 4.5,2.4852814 2.4852814,4.5 0,4.5 -2.4852814,4.5 -4.5,2.4852814 -4.5,0 c 0,-2.4852814 2.0147186,-4.5 4.5,-4.5 2.4852814,0 4.5,2.0147186 4.5,4.5 z"
+     cx="0"
+     cy="0"
+     sodipodi:cx="0"
+     sodipodi:cy="0"
+     sodipodi:rx="4.5"
+     sodipodi:ry="4.5"
+     transform="translate(654.14013,227.48748)" />
+  <a
+     id="a5108"
+     xlink:href="https://portal.pointb.com/SOA/Infrastructure/Ops/projects/SRPPlan/Shared%20Documents/Requirements/Compensation/Process%20Flows/Compensation%20Associate%20Bonus%20Year%20end.vsdx">
+    <text
+       y="227.48749"
+       x="654.14014"
+       id="text4179"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:start;fill:#298aa3;fill-opacity:1;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
+       dy="3"
+       dx="8">Year-End Bonus</text>
+  </a>
+  <circle
+     r="4.5"
+     style="fill:#eeeeee;stroke:#5f67ad;stroke-width:1px;stroke-opacity:1"
+     id="circle4183"
+     d="M 4.5,0 C 4.5,2.4852814 2.4852814,4.5 0,4.5 -2.4852814,4.5 -4.5,2.4852814 -4.5,0 c 0,-2.4852814 2.0147186,-4.5 4.5,-4.5 2.4852814,0 4.5,2.0147186 4.5,4.5 z"
+     cx="0"
+     cy="0"
+     sodipodi:cx="0"
+     sodipodi:cy="0"
+     sodipodi:rx="4.5"
+     sodipodi:ry="4.5"
+     transform="translate(294.14013,318.39658)" />
+  <text
+     dx="-8"
+     dy="3"
+     style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:end;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
+     id="text4185"
+     x="294.14017"
+     y="310.24423">Retirement</text>
+  <circle
+     r="4.5"
+     style="fill:#eeeeee;stroke:#5f67ad;stroke-width:1px;stroke-opacity:1"
+     id="circle4189"
+     d="M 4.5,0 C 4.5,2.4852814 2.4852814,4.5 0,4.5 -2.4852814,4.5 -4.5,2.4852814 -4.5,0 c 0,-2.4852814 2.0147186,-4.5 4.5,-4.5 2.4852814,0 4.5,2.0147186 4.5,4.5 z"
+     cx="0"
+     cy="0"
+     sodipodi:cx="0"
+     sodipodi:cy="0"
+     sodipodi:rx="4.5"
+     sodipodi:ry="4.5"
+     transform="translate(474.14013,318.39658)" />
+  <text
+     dx="-8"
+     dy="3"
+     style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:end;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
+     id="text4191"
+     x="474.14017"
+     y="310.23788">ESOP</text>
+  <circle
+     r="4.5"
+     style="fill:#5f67ad;fill-opacity:1;stroke:#5f67ad;stroke-width:1px;stroke-opacity:1"
+     id="circle4195"
+     d="M 4.5,0 C 4.5,2.4852814 2.4852814,4.5 0,4.5 -2.4852814,4.5 -4.5,2.4852814 -4.5,0 c 0,-2.4852814 2.0147186,-4.5 4.5,-4.5 2.4852814,0 4.5,2.0147186 4.5,4.5 z"
+     cx="0"
+     cy="0"
+     sodipodi:cx="0"
+     sodipodi:cy="0"
+     sodipodi:rx="4.5"
+     sodipodi:ry="4.5"
+     transform="translate(654.14013,300.21476)" />
+  <a
+     id="a5111"
+     xlink:href="https://portal.pointb.com/SOA/Infrastructure/Ops/projects/SRPPlan/Shared%20Documents/Requirements/Compensation/Process%20Flows/ESOP%20Allocation.vsdx">
+    <text
+       y="300.21475"
+       x="654.14014"
+       id="text4197"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:start;fill:#5f67ad;fill-opacity:1;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
+       dy="3"
+       dx="8">Allocation, Segregation, Distribution</text>
+  </a>
+  <circle
+     r="4.5"
+     style="fill:#5f67ad;fill-opacity:1;stroke:#5f67ad;stroke-width:1px;stroke-opacity:1"
+     id="circle4201"
+     d="M 4.5,0 C 4.5,2.4852814 2.4852814,4.5 0,4.5 -2.4852814,4.5 -4.5,2.4852814 -4.5,0 c 0,-2.4852814 2.0147186,-4.5 4.5,-4.5 2.4852814,0 4.5,2.0147186 4.5,4.5 z"
+     cx="0"
+     cy="0"
+     sodipodi:cx="0"
+     sodipodi:cy="0"
+     sodipodi:rx="4.5"
+     sodipodi:ry="4.5"
+     transform="translate(654.14013,336.57839)" />
+  <a
+     id="a5114"
+     xlink:href="https://portal.pointb.com/SOA/Infrastructure/Ops/projects/SRPPlan/Shared%20Documents/Requirements/Compensation/Process%20Flows/ESOP%20Join.vsdx">
+    <text
+       y="336.57837"
+       x="654.14014"
+       id="text4203"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:start;fill:#5f67ad;fill-opacity:1;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
+       dy="3"
+       dx="8">Eligibility (Join)</text>
+  </a>
+  <text
+     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:end;fill:#000000;fill-opacity:1;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
+     id="text4149-4"
+     x="105.45313"
+     y="177.17641">Compensation</text>
+</svg>

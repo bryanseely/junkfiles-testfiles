@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg4201"
+   version="1.1"
+   height="433.24683"
+   width="844.52905">
+  <metadata
+     id="metadata4303">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4301" />
+  <g
+     transform="translate(-2.3460083,-33.899658)"
+     id="g4916">
+    <path
+       id="path4207"
+       style="fill:none;stroke:#cccccc;stroke-width:1px"
+       d="m 143.12847,300 c 114.5,0 114.5,-150 229,-150"
+       class="link" />
+    <path
+       id="path4209"
+       style="fill:none;stroke:#cccccc;stroke-width:1px"
+       d="m 143.12847,300 c 114.5,0 114.5,50 229,50"
+       class="link" />
+    <path
+       id="path4211"
+       style="fill:none;stroke:#cccccc;stroke-width:1px"
+       d="m 143.12847,300 c 114.5,0 114.5,150 229,150"
+       class="link" />
+    <path
+       id="path4213"
+       style="fill:none;stroke:#cccccc;stroke-width:1px"
+       d="m 372.12847,150 c 114.5,0 114.5,-100 229,-100"
+       class="link" />
+    <path
+       id="path4215"
+       style="fill:none;stroke:#cccccc;stroke-width:1px"
+       d="m 372.12847,150 c 114.5,0 114.5,-50 229,-50"
+       class="link" />
+    <path
+       id="path4217"
+       style="fill:none;stroke:#cccccc;stroke-width:1px"
+       d="m 372.12847,150 c 114.5,0 114.5,0 229,0"
+       class="link" />
+    <path
+       id="path4219"
+       style="fill:none;stroke:#cccccc;stroke-width:1px"
+       d="m 372.12847,150 c 114.5,0 114.5,50 229,50"
+       class="link" />
+    <path
+       id="path4221"
+       style="fill:none;stroke:#cccccc;stroke-width:1px"
+       d="m 372.12847,150 c 114.5,0 114.5,100 229,100"
+       class="link" />
+    <path
+       id="path4223"
+       style="fill:none;stroke:#cccccc;stroke-width:1px"
+       d="m 372.12847,350 c 114.5,0 114.5,0 229,0"
+       class="link" />
+    <path
+       id="path4225"
+       style="fill:none;stroke:#cccccc;stroke-width:1px"
+       d="m 372.12847,450 c 114.5,0 114.5,0 229,0"
+       class="link" />
+    <text
+       dx="-8"
+       dy="3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:Arial;-inkscape-font-specification:Arial;text-anchor:end"
+       id="text4231"
+       x="-85.871529"
+       y="300" />
+    <circle
+       r="4.5"
+       style="fill:#eeeeee;stroke:#999999;stroke-width:1px"
+       id="circle4235"
+       cx="143.12848"
+       cy="300" />
+    <text
+       dx="-8"
+       dy="3"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:end"
+       id="text4237"
+       x="133.12848"
+       y="300">Compensation</text>
+    <circle
+       r="4.5"
+       style="fill:#eeeeee;stroke:#999999;stroke-width:1px"
+       id="circle4241"
+       cx="372.12848"
+       cy="150" />
+    <text
+       dx="-8"
+       dy="3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:Arial;-inkscape-font-specification:Arial;text-anchor:end"
+       id="text4243"
+       x="366.12848"
+       y="146">Direct Compensation</text>
+    <circle
+       r="4.5"
+       style="fill:#eeeeee;stroke:#999999;stroke-width:1px"
+       id="circle4247"
+       cx="601.12848"
+       cy="50" />
+    <text
+       dx="8"
+       dy="3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:Arial;-inkscape-font-specification:Arial;text-anchor:start"
+       id="text4249"
+       x="601.12848"
+       y="50">Spot Bonus</text>
+    <circle
+       r="4.5"
+       style="fill:#eeeeee;stroke:#999999;stroke-width:1px"
+       id="circle4253"
+       cx="601.12848"
+       cy="100" />
+    <text
+       dx="8"
+       dy="3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:Arial;-inkscape-font-specification:Arial;text-anchor:start"
+       id="text4255"
+       x="601.12848"
+       y="100">Non-exempt Pay</text>
+    <circle
+       r="4.5"
+       style="fill:#eeeeee;stroke:#999999;stroke-width:1px"
+       id="circle4259"
+       cx="601.12848"
+       cy="150" />
+    <text
+       dx="8"
+       dy="3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:Arial;-inkscape-font-specification:Arial;text-anchor:start"
+       id="text4261"
+       x="601.12848"
+       y="150">Exempt Base Pay</text>
+    <circle
+       r="4.5"
+       style="fill:#eeeeee;stroke:#999999;stroke-width:1px"
+       id="circle4265"
+       cx="601.12848"
+       cy="200" />
+    <text
+       dx="8"
+       dy="3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:Arial;-inkscape-font-specification:Arial;text-anchor:start"
+       id="text4267"
+       x="601.12848"
+       y="200">Payroll</text>
+    <circle
+       r="4.5"
+       style="fill:#eeeeee;stroke:#999999;stroke-width:1px"
+       id="circle4271"
+       cx="601.12848"
+       cy="250" />
+    <text
+       dx="8"
+       dy="3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:Arial;-inkscape-font-specification:Arial;text-anchor:start"
+       id="text4273"
+       x="601.12848"
+       y="250">Unemployment/Workers Comp Reporting</text>
+    <circle
+       r="4.5"
+       style="fill:#eeeeee;stroke:#999999;stroke-width:1px"
+       id="circle4277"
+       cx="372.12848"
+       cy="350" />
+    <text
+       dx="-8"
+       dy="3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:Arial;-inkscape-font-specification:Arial;text-anchor:end"
+       id="text4279"
+       x="366.12848"
+       y="346">Benefits</text>
+    <circle
+       r="4.5"
+       style="fill:#eeeeee;stroke:#999999;stroke-width:1px"
+       id="circle4283"
+       cx="601.12848"
+       cy="350" />
+    <text
+       dx="8"
+       dy="3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:Arial;-inkscape-font-specification:Arial;text-anchor:start"
+       id="text4285"
+       x="601.12848"
+       y="350">COMPASS</text>
+    <circle
+       r="4.5"
+       style="fill:#eeeeee;stroke:#999999;stroke-width:1px"
+       id="circle4289"
+       cx="372.12848"
+       cy="450" />
+    <text
+       dx="-8"
+       dy="3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:Arial;-inkscape-font-specification:Arial;text-anchor:end"
+       id="text4291"
+       x="366.12848"
+       y="454">New Hire</text>
+    <circle
+       r="4.5"
+       style="fill:#eeeeee;stroke:#999999;stroke-width:1px"
+       id="circle4295"
+       cx="601.12848"
+       cy="450" />
+    <text
+       dx="8"
+       dy="3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:Arial;-inkscape-font-specification:Arial;text-anchor:start"
+       id="text4297"
+       x="601.12848"
+       y="450">Payroll Setup</text>
+  </g>
+</svg>
